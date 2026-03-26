@@ -1,0 +1,7 @@
+transaction_id,user_id,amount,location,timestamp
+1,10,120,US,111111
+2,11,4500,IND,111112
+3,12,80,UK,111113
+4,13,3200,US,111114
+5,14,65,CAN,111115
+6,15,4100,AUS,111116 
